@@ -16,6 +16,7 @@ title: Members
 10. Sudeshna Das
 11. Sneh Smriti
 12. Arijit Chatterjee
+13. Sneha Singh
 
 ## MCA
 
